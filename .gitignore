@@ -69,6 +69,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
 Saved/Logs/*
 Saved/Autosaves/*
 Saved/Backup/*
@@ -76,5 +77,8 @@ Saved/Cooked/*
 Saved/Crashes/*
 Saved/EditorCooked/*
 Saved/StagedBuilds/*
+
+Saved/Config/CrashReportClient/*
+
 Saved/Logs/AppTemplate.log
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
