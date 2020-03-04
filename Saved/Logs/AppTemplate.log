@@ -720,3 +720,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-15.15.03:265][888]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/BP_CubeActorC96DD3644C17B5459E9425B54BBCF490.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset'
 [2020.03.04-15.15.03:278][888]AssetCheck: New page: Asset Save: BP_CubeActor
 [2020.03.04-15.15.03:278][888]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
+[2020.03.04-15.15.41:816][ 11]LogSlate: Window 'BP_CubeActor' being destroyed
+[2020.03.04-15.15.41:819][ 11]LogSlate: Window 'BP_CubeActor' being destroyed
+[2020.03.04-15.15.41:828][ 11]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-15.15.41:828][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-15.15.42:916][ 67]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_GameMode.BP_GameMode
+[2020.03.04-15.15.44:899][167]LogSlate: Window 'BP_GameMode' being destroyed
+[2020.03.04-15.15.44:902][167]LogSlate: Window 'BP_GameMode' being destroyed
+[2020.03.04-15.15.44:903][167]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-15.15.44:903][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-15.15.46:019][229]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
+[2020.03.04-15.15.48:955][382]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.15.49:185][382]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.03.04-15.15.50:123][425]LogSlate: Window 'BP_CubeActor' being destroyed
+[2020.03.04-15.15.50:127][425]LogSlate: Window 'BP_CubeActor' being destroyed
+[2020.03.04-15.15.50:127][425]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-15.15.50:127][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-15.15.51:208][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.03.04-15.15.52:703][486]LogSlate: Window 'Save Content' being destroyed
+[2020.03.04-15.15.52:864][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_CubeActor" FILE="../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset" SILENT=true
+[2020.03.04-15.15.52:892][486]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/BP_CubeActor3DE1CF5E4C1D5D50A17FE09A449F5DBA.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset'
+[2020.03.04-15.15.52:893][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/MainMap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.04-15.15.52:922][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.03.04-15.15.52:934][486]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/MainMapEB6DE2374E8A53B47178C1993F3E78A2.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/MainMap.umap'
+[2020.03.04-15.15.52:952][486]LogFileHelpers: Saving map 'MainMap' took 0.059
+[2020.03.04-15.15.52:966][486]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.04-15.15.52:966][486]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
+[2020.03.04-15.15.52:966][486]LogContentValidation: Display: Validating World /Game/Project/MainMap.MainMap
