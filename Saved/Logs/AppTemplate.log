@@ -1345,3 +1345,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-14.58.19:104][741]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
 [2020.03.04-14.58.22:072][894]BlueprintLog: New page: Compile BP_CubeActor
 [2020.03.04-14.58.22:295][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.03.04-15.05.45:991][ 18]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_GameMode.BP_GameMode
+[2020.03.04-15.05.48:193][130]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-15.05.48:193][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-15.06.14:185][679]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.06.14:419][679]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.03.04-15.06.19:493][971]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.06.19:720][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.03.04-15.06.20:387][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_CubeActor" FILE="../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset" SILENT=true
+[2020.03.04-15.06.20:415][  1]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/BP_CubeActorC0C52ABA42E46CC54D4E969D6B5E6F40.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset'
+[2020.03.04-15.06.20:426][  1]AssetCheck: New page: Asset Save: BP_CubeActor
+[2020.03.04-15.06.20:427][  1]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
+[2020.03.04-15.06.49:841][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.03.04-15.06.49:855][431]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/MainMap_Auto2B8DC23D54E07CF560D0153AC58F73F45.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/Autosaves/Game/Project/MainMap_Auto2.umap'
+[2020.03.04-15.06.49:856][431]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/MainMap' took 0.047
+[2020.03.04-15.06.49:856][431]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.047
