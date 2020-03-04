@@ -811,3 +811,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-15.16.47:181][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
 [2020.03.04-15.19.37:420][ 83]BlueprintLog: New page: Compile BP_CubeActor
 [2020.03.04-15.19.37:659][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.03.04-15.22.00:148][519]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.22.00:385][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.03.04-15.23.28:266][119]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.23.28:497][119]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.03.04-15.23.29:491][163]LogSlate: Window 'BP_CubeActor' being destroyed
+[2020.03.04-15.23.29:512][163]LogSlate: Window 'BP_CubeActor' being destroyed
+[2020.03.04-15.23.29:529][163]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-15.23.29:529][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-15.23.37:364][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/MainMap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.04-15.23.37:396][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.03.04-15.23.37:408][616]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/MainMap0E834BF64611619E1FF23485E31AC2AD.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/MainMap.umap'
+[2020.03.04-15.23.37:427][616]LogFileHelpers: Saving map 'MainMap' took 0.063
+[2020.03.04-15.23.37:450][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_CubeActor" FILE="../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset" SILENT=true
+[2020.03.04-15.23.37:479][616]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/BP_CubeActor420A78F1431D6EFD58D91EBABF06CAA7.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset'
+[2020.03.04-15.23.37:495][616]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.04-15.23.37:495][616]LogContentValidation: Display: Validating World /Game/Project/MainMap.MainMap
+[2020.03.04-15.23.37:495][616]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
+[2020.03.04-15.23.46:238][126]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.03.04-15.23.46:332][126]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Content/Blueprints/LowEntryExtendedStandardLibraryMacros.uasset'. Attempt result was '../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Content/Blueprints/LowEntryExtendedStandardLibraryMacros', but the path contains illegal characters '.'
+[2020.03.04-15.23.51:859][126]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.04-15.23.52:106][126]LogSourceControl: commit successful: [master ecb8c91] wth
+[2020.03.04-15.23.52:184][126]SourceControl: [master ecb8c91] wth
+[2020.03.04-15.23.52:184][126]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.03.04-15.23.52:188][126]SourceControl: Commited [master ecb8c91] wth.
