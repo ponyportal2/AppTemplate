@@ -70,4 +70,10 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Saved/Logs/AppTemplate.log
+# Stuff in Saved
+!Saved/*/
+Saved/*/**
+!Saved/Temp/*
+!Saved/Config/*
+
+

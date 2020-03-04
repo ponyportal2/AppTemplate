@@ -1341,3 +1341,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-14.56.42:470][781]LogSlate: Window 'Source Control Login' being destroyed
 [2020.03.04-14.56.50:025][207]LogSlate: Window 'Source Control Login' being destroyed
 [2020.03.04-14.56.50:526][217]LogEditorViewport: Clicking on Actor (LMB): BP_CubeActor_C (BP_CubeActor17)
+[2020.03.04-14.58.16:390][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.03.04-14.58.19:104][741]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
+[2020.03.04-14.58.22:072][894]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-14.58.22:295][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
