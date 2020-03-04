@@ -71,11 +71,11 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Stuff in Saved
-Saved/*
-!Saved/Temp/*
-Saved/*
-!Saved/Config/*
-
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Saved/Logs/AppTemplate.log
-Saved/Logs/AppTemplate.log
+Saved/Logs/*
+Saved/Autosaves/*
+Saved/Backup/*
+Saved/Cooked/*
+Saved/Crashes/*
+Saved/EditorCooked/*
+Saved/StagedBuilds/*

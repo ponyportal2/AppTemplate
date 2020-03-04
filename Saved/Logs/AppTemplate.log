@@ -747,3 +747,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-15.15.52:966][486]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.04-15.15.52:966][486]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
 [2020.03.04-15.15.52:966][486]LogContentValidation: Display: Validating World /Game/Project/MainMap.MainMap
+[2020.03.04-15.16.25:121][208]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.04-15.16.25:130][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.04-15.16.25:131][208]PIE: New page: PIE session: MainMap (5 мар. 2020 г., 05:16:25)
+[2020.03.04-15.16.25:132][208]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.04-15.16.25:133][208]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.04-15.16.25:133][208]LogPlayLevel: Creating play world package: /Game/Project/UEDPIE_0_MainMap
+[2020.03.04-15.16.25:135][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002161s)
+[2020.03.04-15.16.25:136][208]LogAIModule: Creating AISystem for world MainMap
+[2020.03.04-15.16.25:136][208]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2020.03.04-15.16.25:136][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/MainMap.MainMap to /Game/Project/UEDPIE_0_MainMap.MainMap (0.003165s)
+[2020.03.04-15.16.25:165][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.03.04-15.16.25:165][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.04-15.16.25:165][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.04-15.16.25:165][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.04-15.16.25:165][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.04-15.16.25:165][208]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.04-15.16.25:165][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.04-15.16.25:165][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.04-15.16.25:165][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.04-15.16.25:166][208]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.04-15.16.25:166][208]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.04-15.16.25:185][208]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.04-15.16.25:185][208]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.04-15.16.25:185][208]LogAudioMixer: Display: Is Default: Yes
+[2020.03.04-15.16.25:185][208]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.04-15.16.25:185][208]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.04-15.16.25:185][208]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.04-15.16.25:185][208]LogAudioMixer: Display: Channel Order:
+[2020.03.04-15.16.25:185][208]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.04-15.16.25:185][208]LogAudioMixer: Display: 1: FrontRight
+[2020.03.04-15.16.25:192][208]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.04-15.16.25:193][208]LogInit: FAudioDevice initialized.
+[2020.03.04-15.16.25:202][208]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.04-15.16.25:205][208]LogWorld: Bringing World /Game/Project/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2020.03.04-22.16.25
+[2020.03.04-15.16.25:205][208]LogWorld: Bringing up level for play took: 0.001177
+[2020.03.04-15.16.25:205][208]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.03.04-15.16.25:208][208]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.03.04-15.16.25:214][208]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.03.04-15.16.25:215][208]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.04-15.16.25:215][208]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.04-15.16.25:215][208]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.04-15.16.25:229][208]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.04-15.16.25:229][208]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.04-15.16.25:229][208]PIE: Play in editor start time for /Game/Project/UEDPIE_0_MainMap 1,035
+[2020.03.04-15.16.36:151][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-15.16.36:151][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-15.16.36:152][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-15.16.36:152][825]LogWorld: BeginTearingDown for /Game/Project/UEDPIE_0_MainMap
+[2020.03.04-15.16.36:152][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-15.16.36:152][825]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-15.16.36:152][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-15.16.36:157][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.04-15.16.36:162][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-15.16.36:192][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.04-15.16.36:194][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.04-15.16.36:244][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.03.04-15.16.36:354][832]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.04-15.16.37:020][868]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
+[2020.03.04-15.16.40:366][ 16]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.16.40:642][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.03.04-15.16.46:946][349]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.16.47:181][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
