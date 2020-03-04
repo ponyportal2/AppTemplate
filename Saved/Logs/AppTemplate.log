@@ -708,3 +708,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-15.14.25:691][771]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
 [2020.03.04-15.14.26:535][818]BlueprintLog: New page: Compile BP_CubeActor
 [2020.03.04-15.14.26:748][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.03.04-15.14.48:261][ 89]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.14.48:492][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.03.04-15.14.57:002][576]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.14.57:228][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.03.04-15.15.00:790][781]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.15.01:020][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.03.04-15.15.02:492][865]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.15.02:721][865]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.03.04-15.15.03:238][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_CubeActor" FILE="../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset" SILENT=true
+[2020.03.04-15.15.03:265][888]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/BP_CubeActorC96DD3644C17B5459E9425B54BBCF490.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset'
+[2020.03.04-15.15.03:278][888]AssetCheck: New page: Asset Save: BP_CubeActor
+[2020.03.04-15.15.03:278][888]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
