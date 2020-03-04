@@ -1338,3 +1338,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-14.56.05:372][872]LogFileHelpers: Saving map 'MainMap' took 0.057
 [2020.03.04-14.56.05:384][872]AssetCheck: New page: Asset Save: MainMap
 [2020.03.04-14.56.05:384][872]LogContentValidation: Display: Validating World /Game/Project/MainMap.MainMap
+[2020.03.04-14.56.42:470][781]LogSlate: Window 'Source Control Login' being destroyed
+[2020.03.04-14.56.50:025][207]LogSlate: Window 'Source Control Login' being destroyed
+[2020.03.04-14.56.50:526][217]LogEditorViewport: Clicking on Actor (LMB): BP_CubeActor_C (BP_CubeActor17)
