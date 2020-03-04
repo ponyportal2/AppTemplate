@@ -71,10 +71,9 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Stuff in Saved
-!Saved/*/
-Saved/*/**
+Saved/*
 !Saved/Temp/*
+Saved/*
 !Saved/Config/*
-
 
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
