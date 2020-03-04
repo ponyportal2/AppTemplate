@@ -1305,3 +1305,36 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-14.40.30:726][614]SourceControl:  create mode 100644 Source/AppTemplate/Public/CppAppActor.h
 [2020.03.04-14.40.30:726][614]SourceControl:  create mode 100644 Source/AppTemplateEditor.Target.cs
 [2020.03.04-14.40.45:211][458]LogSlate: Window 'Source Control Login' being destroyed
+[2020.03.04-14.53.54:982][360]LogSlate: Window 'Source Control Login' being destroyed
+[2020.03.04-14.54.02:675][793]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-14.54.02:931][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.03.04-14.54.17:020][620]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-14.54.17:250][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.03.04-14.54.18:208][673]LogSlate: Window 'BP_CubeActor' being destroyed
+[2020.03.04-14.54.18:212][673]LogSlate: Window 'BP_CubeActor' being destroyed
+[2020.03.04-14.54.18:221][673]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.04-14.54.18:221][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.04-14.54.32:935][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_CubeActor" FILE="../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset" SILENT=true
+[2020.03.04-14.54.32:965][533]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/BP_CubeActor34BDA3744355F185143D1583BC53502A.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/Blueprints/BP_CubeActor.uasset'
+[2020.03.04-14.54.32:979][533]AssetCheck: New page: Asset Save: BP_CubeActor
+[2020.03.04-14.54.32:979][533]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_CubeActor.BP_CubeActor
+[2020.03.04-14.54.46:285][251]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.03.04-14.54.46:382][251]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Content/Blueprints/LowEntryExtendedStandardLibraryMacros.uasset'. Attempt result was '../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Content/Blueprints/LowEntryExtendedStandardLibraryMacros', but the path contains illegal characters '.'
+[2020.03.04-14.54.55:646][251]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.04-14.54.55:830][251]LogSourceControl: commit successful: [master 65f84ba] dummy change
+[2020.03.04-14.54.55:875][251]SourceControl: [master 65f84ba] dummy change
+[2020.03.04-14.54.55:875][251]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.03.04-14.54.55:875][251]SourceControl:  rewrite Content/Project/Blueprints/BP_CubeActor.uasset (76%)
+[2020.03.04-14.54.55:879][251]SourceControl: Commited [master 65f84ba] dummy change.
+[2020.03.04-14.55.24:056][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.03.04-14.55.24:070][738]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/MainMap_Auto15A418E954A18AE79D56B189ED91D119F.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/Autosaves/Game/Project/MainMap_Auto1.umap'
+[2020.03.04-14.55.24:072][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/MainMap' took 0.048
+[2020.03.04-14.55.24:072][738]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2020.03.04-14.56.03:906][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.03.04-14.56.05:231][872]LogSlate: Window 'Save Content' being destroyed
+[2020.03.04-14.56.05:315][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/MainMap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.04-14.56.05:342][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.03.04-14.56.05:354][872]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Saved/MainMapBB6C89044C11CBC7F7AD5091C3D8F26F.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/AppTemplate/Content/Project/MainMap.umap'
+[2020.03.04-14.56.05:372][872]LogFileHelpers: Saving map 'MainMap' took 0.057
+[2020.03.04-14.56.05:384][872]AssetCheck: New page: Asset Save: MainMap
+[2020.03.04-14.56.05:384][872]LogContentValidation: Display: Validating World /Game/Project/MainMap.MainMap
