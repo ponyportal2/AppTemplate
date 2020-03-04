@@ -809,3 +809,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.04-15.16.40:642][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
 [2020.03.04-15.16.46:946][349]BlueprintLog: New page: Compile BP_CubeActor
 [2020.03.04-15.16.47:181][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.03.04-15.19.37:420][ 83]BlueprintLog: New page: Compile BP_CubeActor
+[2020.03.04-15.19.37:659][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
